@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAAA;EACI","sourcesContent":[".current {\n    color: rgb(0, 196, 26);\n}"],"file":"styles.css"}
+{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAAA;EACI","sourcesContent":[".current {\n    color: rgb(19, 232, 47);\n}"],"file":"styles.css"}
